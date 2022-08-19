@@ -1,0 +1,3 @@
+C:/Users/Sahaa/CLionProjects/Criminal_Databse/cmake-build-debug/CMakeFiles/Criminal_Databse.dir
+C:/Users/Sahaa/CLionProjects/Criminal_Databse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sahaa/CLionProjects/Criminal_Databse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
